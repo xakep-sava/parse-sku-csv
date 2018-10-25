@@ -1,0 +1,28 @@
+{
+  "name": "parse-sku-csv",
+  "version": "1.0.0",
+  "description": "Parsing sku of csv column",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xakep-sava/parse-sku-csv.git"
+  },
+  "keywords": [
+    "parsing",
+    "sku",
+    "csv",
+    "column"
+  ],
+  "author": "Vladimir Savrov",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/xakep-sava/parse-sku-csv/issues"
+  },
+  "homepage": "https://github.com/xakep-sava/parse-sku-csv#readme",
+  "dependencies": {
+    "csv-parser": "^2.1.0"
+  }
+}
